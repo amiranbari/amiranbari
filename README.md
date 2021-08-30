@@ -15,16 +15,16 @@ I'm fluent in English, almost fluent in Turkish and love French.
   <img align="left" alt="Amir Anbari LinkedIn" height="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/amiranbari">
-  <img align="left" alt="Amir Anbari LinkedIn" height="22" src="https://raw.githubusercontent.com/amiranbari/amiranbari/main/assets/instagram.svg" />
+<a href="https://www.instagram.com/amir.anbari_">
+  <img align="left" alt="Amir Anbari Instagram" height="22" src="https://raw.githubusercontent.com/amiranbari/amiranbari/main/assets/instagram.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/amiranbari">
-  <img align="left" alt="Amir Anbari LinkedIn" height="22" src="https://raw.githubusercontent.com/amiranbari/amiranbari/main/assets/twitter.svg" />
+<a href="#">
+  <img align="left" alt="Amir Anbari Twitter" height="22" src="https://raw.githubusercontent.com/amiranbari/amiranbari/main/assets/twitter.svg" />
 </a>
 
-<a href="https://www.linkedin.com/in/amiranbari">
-  <img align="left" alt="Amir Anbari LinkedIn" height="22" src="https://raw.githubusercontent.com/amiranbari/amiranbari/main/assets/facebook.svg" />
+<a href="#">
+  <img align="left" alt="Amir Anbari Facebook" height="22" src="https://raw.githubusercontent.com/amiranbari/amiranbari/main/assets/facebook.svg" />
 </a>
 
 
