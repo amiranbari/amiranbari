@@ -6,6 +6,7 @@ After 5 years of experience as a web developer I decided to improve my skills an
 <br />
 I'm fluent in English, almost fluent in Turkish and love French.
 
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/amiranbari/amiranbari/main/assets/coding.gif" width="500" height="320" />
 
 **My social medias:**
 
