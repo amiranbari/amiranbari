@@ -10,7 +10,9 @@ I'm fluent in English, almost fluent in Turkish and love French.
 
 **My social medias:**
 
-<code><a href="https://www.linkedin.com/in/amiranbari">
-  <img align="left" alt="Amir Anbari LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a></code>
+<code>
+  <a href="https://www.linkedin.com/in/amiranbari">
+    <img align="left" alt="Amir Anbari LinkedIn" height="20" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  </a>
+</code>
 
