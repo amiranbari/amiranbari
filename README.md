@@ -6,7 +6,6 @@ After 5 years of experience as a web developer I decided to improve my skills an
 <br />
 I'm fluent in English, almost fluent in Turkish and love French.
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/WTjXuYA2y4o3UZly3W" width="500" height="320" />
 
 **My social medias:**
 
