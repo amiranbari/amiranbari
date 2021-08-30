@@ -10,10 +10,10 @@ I'm fluent in English, almost fluent in Turkish and love French.
 
 **languages and tools:**  
 
-<img height="25" src="https://raw.githubusercontent.com/amiranbari/amiranbari/main/assets/javascript-original.svg">
-<img height="25" src="https://raw.githubusercontent.com/amiranbari/amiranbari/main/assets/laravel-plain-wordmark.svg">
-<img height="25" src="https://raw.githubusercontent.com/amiranbari/amiranbari/main/assets/php.png">
-<img height="25" src="https://raw.githubusercontent.com/amiranbari/amiranbari/main/assets/bootstrap-plain-wordmark.svg">
+<code><img height="25" src="https://raw.githubusercontent.com/amiranbari/amiranbari/main/assets/javascript-original.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/amiranbari/amiranbari/main/assets/laravel-plain-wordmark.svg"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/amiranbari/amiranbari/main/assets/php.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/amiranbari/amiranbari/main/assets/bootstrap-plain-wordmark.svg"></code>
 
 **My social medias:**
 
