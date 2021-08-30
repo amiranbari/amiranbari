@@ -15,4 +15,8 @@ I'm fluent in English, almost fluent in Turkish and love French.
   <img align="left" alt="Amir Anbari LinkedIn" height="22" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<a href="https://www.linkedin.com/in/amiranbari">
+  <img align="left" alt="Amir Anbari LinkedIn" height="22" src="https://raw.githubusercontent.com/amiranbari/amiranbari/main/assets/instagram.jpg" />
+</a>
+
 
