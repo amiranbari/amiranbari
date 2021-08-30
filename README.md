@@ -6,7 +6,7 @@ After 5 years of experience as a web developer I decided to improve my skills an
 <br />
 I'm fluent in English, almost fluent in Turkish and love French.
 
-<iframe src="https://giphy.com/embed/WTjXuYA2y4o3UZly3W" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Venturit-WTjXuYA2y4o3UZly3W">via GIPHY</a></p>
+<img align="right" alt="GIF" src="https://giphy.com/embed/WTjXuYA2y4o3UZly3W" width="500" height="320" />
 
 **My social medias:**
 
