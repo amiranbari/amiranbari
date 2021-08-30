@@ -6,7 +6,7 @@ After 5 years of experience as a web developer I decided to improve my skills an
 <br />
 I'm fluent in English, almost fluent in Turkish and love French.
 
-**my social medias:**
+**My social medias:**
 
 <a href="https://www.linkedin.com/in/amiranbari">
   <img align="left" alt="Amir Anbari LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
