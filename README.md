@@ -4,7 +4,7 @@ Hi I'm Amir Anbari , a self-taught Web developer and love coding  <img alt="Love
 <br />
 After 5 years of experience as a web developer I decided to improve my skills and become a software engineer.
 <br />
-I'm fluent in English, almost fluent in Turkish and love French.
+I'm fluent in English and almost fluent in Turkish.
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/amiranbari/amiranbari/main/assets/code.gif" width="500" height="320" />
 
